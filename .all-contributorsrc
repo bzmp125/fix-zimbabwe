@@ -32,6 +32,16 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "michaeldera",
+      "name": "Michael",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12817839?v=4",
+      "profile": "https://github.com/michaeldera",
+      "contributions": [
+        "maintenance",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
