@@ -9,6 +9,10 @@ If you've ever felt like this guy below, then this script is for you;
 <img src="./static/images/local_man.jpg" alt="drawing" width="600" height="336"/>
 
 
+## Issues
+
+If you would like to file an issue, use one of our issue templates to get started.
+
 ## Documentation
 
 If you want to read about using Fix-Zimbabwe or develop further, the [Documentation](https://github.com/bzmp125/fix-zimbabwe/readme.md) is free and available online. 
@@ -39,6 +43,8 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 [@sabelo-n](https://github.com/sabelo-n) 
 
 [@bzmp125](https://github.com/bzmp125)
+
+[@michaeldera](https://github.com/michaeldera)
 
 ## License
 We use the MIT license and hope every nation in the world facing similar challenges may be able to use this super script to dive into glory.
