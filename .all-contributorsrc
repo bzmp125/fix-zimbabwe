@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sabelo-n",
+      "name": "Sabelo Ndebele",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50512828?v=4",
+      "profile": "http://s3media.co.za",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "fix-zimbabwe",
+  "projectOwner": "bzmp125",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
