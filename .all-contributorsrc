@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "maffsojah",
+      "name": "Terry Mafura",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6072892?v=4",
+      "profile": "https://maffsojah.co.zw",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "fix-zimbabwe",
+  "projectOwner": "bzmp125",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
