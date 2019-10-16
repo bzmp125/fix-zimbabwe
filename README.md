@@ -1,4 +1,5 @@
 # Fix-Zimbabwe
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Fix-Zimbabwe is a super script that will wipe all your Zimbabwean problems. It is built with Bash and is based on everything we love about the Southern African country. We designed it to be highly customizable , but still approachable using the default configuration. Use at your own risk
 
@@ -35,6 +36,15 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 
 ## Contributors
 [@maffsojah](https://github.com/maffsojah)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://olivierjm.dev"><img src="https://avatars1.githubusercontent.com/u/11255454?v=4" width="100px;" alt="Olivier JM Maniraho"/><br /><sub><b>Olivier JM Maniraho</b></sub></a><br /><a href="#maintenance-OlivierJM" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 [@sabelo-n](https://github.com/sabelo-n) 
 
