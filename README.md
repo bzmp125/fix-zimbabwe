@@ -34,6 +34,10 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 * Discuss Fix-Zimbabwe on [Twitter](https://twitter.com)
 * Chat about Fix-Zimbabwe on our Discord Channel -- [Invitation to join](https://discordapp.com)
 
+## ToDo
+- [x] Fix Zimbabwe for people with no life.
+- [x] Fix Zimbabwe for rich people with a life.
+- [ ] Fix Zimbabwe for poor people with a life.
 
 ## License
 We use the MIT license and hope every nation in the world facing similar challenges may be able to use this super script to dive into glory.
