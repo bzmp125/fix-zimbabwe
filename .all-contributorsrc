@@ -42,6 +42,16 @@
         "maintenance",
         "doc"
       ]
+    },
+    {
+      "login": "jamesddube",
+      "name": "James Dube",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3867675?v=4",
+      "profile": "http://jamesdube.com",
+      "contributions": [
+        "tool",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
