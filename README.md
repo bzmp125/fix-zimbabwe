@@ -1,4 +1,5 @@
 # Fix-Zimbabwe
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Fix-Zimbabwe is a super script that will wipe all your Zimbabwean problems. It is built with Bash and is based on everything we love about the Southern African country. We designed it to be highly customizable , but still approachable using the default configuration. Use at your own risk
 
@@ -35,3 +36,19 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 
 ## License
 We use the MIT license and hope every nation in the world facing similar challenges may be able to use this super script to dive into glory.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://maffsojah.co.zw"><img src="https://avatars3.githubusercontent.com/u/6072892?v=4" width="100px;" alt="Terry Mafura"/><br /><sub><b>Terry Mafura</b></sub></a><br /><a href="https://github.com/bzmp125/fix-zimbabwe/commits?author=maffsojah" title="Documentation">📖</a> <a href="#maintenance-maffsojah" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
