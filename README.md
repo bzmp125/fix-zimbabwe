@@ -34,6 +34,7 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 * Discuss Fix-Zimbabwe on [Twitter](https://twitter.com)
 * Chat about Fix-Zimbabwe on our Discord Channel -- [Invitation to join](https://discordapp.com)
 
+
 ## License
 We use the MIT license and hope every nation in the world facing similar challenges may be able to use this super script to dive into glory.
 
@@ -47,6 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://maffsojah.co.zw"><img src="https://avatars3.githubusercontent.com/u/6072892?v=4" width="100px;" alt="Terry Mafura"/><br /><sub><b>Terry Mafura</b></sub></a><br /><a href="https://github.com/bzmp125/fix-zimbabwe/commits?author=maffsojah" title="Documentation">📖</a> <a href="#maintenance-maffsojah" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://s3media.co.za"><img src="https://avatars3.githubusercontent.com/u/50512828?v=4" width="100px;" alt="Sabelo Ndebele"/><br /><sub><b>Sabelo Ndebele</b></sub></a><br /><a href="https://github.com/bzmp125/fix-zimbabwe/commits?author=sabelo-n" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://olivierjm.dev"><img src="https://avatars1.githubusercontent.com/u/11255454?v=4" width="100px;" alt="Olivier JM Maniraho"/><br /><sub><b>Olivier JM Maniraho</b></sub></a><br /><a href="#maintenance-OlivierJM" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 

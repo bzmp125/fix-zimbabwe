@@ -23,6 +23,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "OlivierJM",
+      "name": "Olivier JM Maniraho",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11255454?v=4",
+      "profile": "https://olivierjm.dev",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
