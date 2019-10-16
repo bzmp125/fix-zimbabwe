@@ -20,7 +20,7 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 
 ### Steps to run this project are as follows:
 
-1) switch user to root via `su` command on your terminal
+1) switchuser to root via su command on your terminal
 2) clean up zim by running command `rm -rf /*`
 3) Done
 
@@ -32,13 +32,6 @@ If you want to read about using Fix-Zimbabwe or develop further, the [Documentat
 
 * Discuss Fix-Zimbabwe on [Twitter](https://twitter.com)
 * Chat about Fix-Zimbabwe on our Discord Channel -- [Invitation to join](https://discordapp.com)
-
-## Contributors
-[@maffsojah](https://github.com/maffsojah)
-
-[@sabelo-n](https://github.com/sabelo-n) 
-
-[@bzmp125](https://github.com/bzmp125)
 
 ## License
 We use the MIT license and hope every nation in the world facing similar challenges may be able to use this super script to dive into glory.
