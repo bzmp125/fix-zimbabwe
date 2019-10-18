@@ -70,6 +70,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "bzmp125",
+      "name": "Bakani ZM Pilime",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7888243?v=4",
+      "profile": "https://medium.com/@bzmpilime",
+      "contributions": [
+        "maintenance",
+        "financial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
