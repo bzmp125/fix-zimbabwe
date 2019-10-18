@@ -1,5 +1,5 @@
 # Fix-Zimbabwe
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 
 Fix-Zimbabwe is a super script that will wipe all your Zimbabwean problems. It is built with Bash and is based on everything we love about the Southern African country. We designed it to be highly customizable , but still approachable using the default configuration. Use at your own risk
 
@@ -57,6 +57,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://jamesdube.com"><img src="https://avatars3.githubusercontent.com/u/3867675?v=4" width="100px;" alt="James Dube"/><br /><sub><b>James Dube</b></sub></a><br /><a href="#tool-jamesddube" title="Tools">🔧</a> <a href="https://github.com/bzmp125/fix-zimbabwe/commits?author=jamesddube" title="Code">💻</a></td>
     <td align="center"><a href="http://diggle.tech"><img src="https://avatars0.githubusercontent.com/u/11582986?v=4" width="100px;" alt="Edmore M Gonese"/><br /><sub><b>Edmore M Gonese</b></sub></a><br /><a href="#ideas-Digolodollarz" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://cvjulien.netlify.com/"><img src="https://avatars0.githubusercontent.com/u/30557565?v=4" width="100px;" alt="Jul"/><br /><sub><b>Jul</b></sub></a><br /><a href="https://github.com/bzmp125/fix-zimbabwe/commits?author=julkwel" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://medium.com/@bzmpilime"><img src="https://avatars2.githubusercontent.com/u/7888243?v=4" width="100px;" alt="Bakani ZM Pilime"/><br /><sub><b>Bakani ZM Pilime</b></sub></a><br /><a href="#maintenance-bzmp125" title="Maintenance">🚧</a> <a href="#financial-bzmp125" title="Financial">💵</a></td>
   </tr>
 </table>
 
